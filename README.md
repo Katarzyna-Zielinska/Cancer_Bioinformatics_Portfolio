@@ -22,7 +22,7 @@ The portfolio combines programming, statistical analysis, biological interpretat
 
 ## Portfolio Projects
 
-| # | Project | Main Focus | Technologies | Repository |
+|   | Project | Main Focus | Technologies | Repository |
 |---|---------|------------|---------------|------------|
 | 01 | **NGS Pipeline – Python** | NGS preprocessing, QC, alignment and quantification | Python, FastQC, fastp, STAR, SAMtools, featureCounts, MultiQC | [View Repository](https://github.com/TWOJ_LOGIN/01_NGS_Pipeline_Python) |
 | 02 | **Bulk RNA-seq – Glioblastoma** | Differential expression and functional enrichment | R, DESeq2, GEOquery, clusterProfiler | [View Repository](https://github.com/TWOJ_LOGIN/02_Bulk_RNAseq_Glioblastoma_DESeq2) |
