@@ -123,9 +123,9 @@ The completed workflow achieved:
 
 ---
 
-# Skills
+## Skills
 
-## Bioinformatics
+### Bioinformatics
 
 - NGS data analysis
 - RNA-seq
@@ -137,14 +137,13 @@ The completed workflow achieved:
 - Quality control
 - Reproducible bioinformatics workflows
 
-## Programming
+### Programming
 
 - Python
 - R
-- SQL
 - Linux / Bash
 
-## Bioinformatics Tools
+### Bioinformatics Tools
 
 - FastQC
 - fastp
@@ -156,17 +155,17 @@ The completed workflow achieved:
 - Snakemake
 - Graphviz
 
-## Data Science & Machine Learning
+### Data Science & Machine Learning
 
 - pandas
 - NumPy
 - scikit-learn
 - Statistical analysis
 - Data preprocessing
-- Model evaluation
 - Data visualization
+- Model evaluation
 
-## Reproducibility & Workflow Development
+### Reproducibility & Workflow Development
 
 - Snakemake
 - Git
