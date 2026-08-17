@@ -32,8 +32,6 @@ The portfolio combines programming, statistical analysis, biological interpretat
 
 ---
 
-## Portfolio Projects
-
 ### 01 - NGS / RNA-seq Pipeline with Python
 
 **Focus:** NGS quality control, preprocessing, alignment and transcript-level quantification.
