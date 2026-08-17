@@ -21,7 +21,7 @@ The portfolio combines programming, statistical analysis, biological interpretat
 
 ## Portfolio Projects
 
-### 01 — NGS Pipeline with Python
+### 01 - NGS Pipeline with Python
 
 **Focus:** NGS data quality control and preprocessing
 
@@ -39,7 +39,7 @@ This project demonstrates a reproducible NGS preprocessing workflow, including s
 
 ---
 
-### 02 — Bulk RNA-seq: Glioblastoma Differential Expression
+### 02 - Bulk RNA-seq: Glioblastoma Differential Expression
 
 **Focus:** Bulk RNA-seq differential expression analysis
 
@@ -58,7 +58,7 @@ This project analyzes gene-expression differences between glioblastoma and healt
 
 ---
 
-### 03 — Single-Cell RNA-seq: Glioblastoma
+### 03 - Single-Cell RNA-seq: Glioblastoma
 
 **Focus:** Single-cell RNA-seq analysis and cellular heterogeneity
 
@@ -77,7 +77,7 @@ This project applies single-cell RNA-seq analysis to investigate cellular popula
 
 ---
 
-### 04 — Machine Learning for Glioblastoma
+### 04 - Machine Learning for Glioblastoma
 
 **Focus:** Machine learning applied to cancer genomics
 
@@ -95,7 +95,7 @@ This project demonstrates the application of machine-learning methods to biologi
 
 ---
 
-### 05 — RNA-seq Workflow Automation with Snakemake
+### 05 - RNA-seq Workflow Automation with Snakemake
 
 **Focus:** Reproducible workflow automation and RNA-seq alignment
 
