@@ -22,6 +22,18 @@ The portfolio combines programming, statistical analysis, biological interpretat
 
 ## Portfolio Projects
 
+| # | Project | Main Focus | Technologies | Repository |
+|---|---------|------------|---------------|------------|
+| 01 | **NGS Pipeline – Python** | NGS preprocessing, QC, alignment and quantification | Python, FastQC, fastp, STAR, SAMtools, featureCounts, MultiQC | [View Repository](https://github.com/TWOJ_LOGIN/01_NGS_Pipeline_Python) |
+| 02 | **Bulk RNA-seq – Glioblastoma** | Differential expression and functional enrichment | R, DESeq2, GEOquery, clusterProfiler | [View Repository](https://github.com/TWOJ_LOGIN/02_Bulk_RNAseq_Glioblastoma_DESeq2) |
+| 03 | **Single-Cell RNA-seq – Glioblastoma** | scRNA-seq QC, clustering and cell-state analysis | R, STARsolo, Seurat, inferCNV | [View Repository](https://github.com/TWOJ_LOGIN/03_SingleCell_RNAseq_Glioblastoma-Seurat) |
+| 04 | **Machine Learning – Glioblastoma** | Cancer classification using machine learning | Python, pandas, NumPy, scikit-learn | [View Repository](https://github.com/TWOJ_LOGIN/04_Machine-Learning-GBM) |
+| 05 | **Workflow Automation – Snakemake** | Reproducible RNA-seq workflow automation | Snakemake, HISAT2, SAMtools, Bash, Graphviz | [View Repository](https://github.com/TWOJ_LOGIN/05_Workflow-Automation-Snakemake) |
+
+---
+
+## Portfolio Projects
+
 ### 01 - NGS / RNA-seq Pipeline with Python
 
 **Focus:** NGS quality control, preprocessing, alignment and transcript-level quantification.
