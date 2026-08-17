@@ -147,11 +147,16 @@ The completed workflow achieved:
 
 - FastQC
 - fastp
+- STAR
+- STARsolo
 - HISAT2
 - SAMtools
+- featureCounts
+- MultiQC
 - DESeq2
 - GEOquery
 - Seurat
+- inferCNV
 - Snakemake
 - Graphviz
 
